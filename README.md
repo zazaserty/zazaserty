@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zazaserty&label=Profile%20views&color=0e75b6&style=flat" alt="zazaserty" /> </p>
 
+### Some quick facts about me
+
 - 🔭 Currently working on getting my IB diploma and learning programming!
 
 - 🌱 I’m currently learning to program using **C++**
@@ -12,8 +14,6 @@
 - 💬 Ask me about Linux and tinkering, specially *Gentoo*!
 
 - 📫 Reach me at **zazaserty@disroot.org**
-
-- 📄 Know about my experiences at my CAS Blog (written in spanish and heavily WIP) [https://zaworld.zapto.org/CAS/](https://zaworld.zapto.org/CAS/)
 
 - ⚡ I will never forget that day, a friend told me about linux and I was thrown into a whole new world.**
 
