@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm zazaserty</h1>
-<h3 align="left">An IB student which is trying to learn more about linux, IT and programming. I completely agree with the philosophy of the open source movement and desire to contribute to projects as much as I can. Sadly, studying puts a huge responsability on me and I cannot put as much effort as I would like into my hobbies. I am studying latin and have a huge interest in philology which may look weird taking into account that my main hobby is linux and tech. It is what it is, I am a special one ;).</h3>
+<h3 align="left">An IB student which is trying to learn more about linux, IT and programming. I completely agree with the philosophy of the open source movement and desire to contribute to projects as much as I can. Sadly, studying puts a huge responsability on me and I cannot put as much effort as I would like into my hobbies. I am studying latin and have a huge interest in philology, which may look weird taking into account that my main hobby is tech. It is what it is, I am a special one ;).</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zazaserty&label=Profile%20views&color=0e75b6&style=flat" alt="zazaserty" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zazaserty" alt="zazaserty" /></a> </p>
 
 - 🔭 Currently working on getting my IB diploma and learning programming!
 
