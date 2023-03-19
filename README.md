@@ -13,7 +13,7 @@
 
 - 📝 I maintain a private nextcloud instance at [https://zaworld.zapto.org/](https://zaworld.zapto.org/).
 
--🤝 I am a big advocate for privacy, I used to host a TOR relay at home until the government of Spain decided to ban all tor ips from their services (which I sadly need).
+- 🤝 I am a big advocate for privacy, I used to host a TOR relay at home until the government of Spain decided to ban all tor ips from their services (which I sadly need).
 
 - 💬 Ask me about Linux and tinkering, specially *Gentoo*!
 
