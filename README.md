@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm zazaserty</h1>
-<h3 align="left">I am an IB student with a great interest in philology and languages. I study latin and know french, english and spanish. I love linux and tinkering to get the perfect setup, specifically Gentoo which makes me feel really satisfied with the level of control I am given. I believe in the open source movement and do all I can to support it. I also try to get google and big corpos of me trough selfhosting, something I think everyone should try out.I am an avid learner and will achieve my goals!</h3>
+<h3 align="left">I am an IB student with a great interest in philology and languages. I study latin and know french, english and spanish. I love linux and tinkering to get the perfect setup, specifically Gentoo which makes me feel really satisfied with the level of control I am given. I believe in the open source movement and do all I can to support it. I also try to get google and big corpos of me trough selfhosting, something I think everyone should try out. I am an avid learner and will achieve my goals!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zazaserty&label=Profile%20views&color=0e75b6&style=flat" alt="zazaserty" /> </p>
 
@@ -9,7 +9,11 @@
 
 - 🌱 I’m currently learning to program using **C++**.
 
+- 👨‍💻 I also have some experience with hacking, specifically wireless networks and phishing!
+
 - 📝 I maintain a private nextcloud instance at [https://zaworld.zapto.org/](https://zaworld.zapto.org/).
+
+-🤝 I am a big advocate for privacy, I used to host a TOR relay at home until the government of Spain decided to ban all tor ips from their services (which I sadly need).
 
 - 💬 Ask me about Linux and tinkering, specially *Gentoo*!
 
