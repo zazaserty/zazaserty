@@ -5,7 +5,7 @@
 
 ### Some quick facts about me
 
-- 🔭 Currently working on getting my IB diploma and learning programming!.
+- 🔭 Currently working on getting my diploma and learning programming!.
 
 - 🌱 I’m currently learning to program using **C++**.
 
