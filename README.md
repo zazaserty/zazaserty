@@ -1,22 +1,20 @@
-<h1 align="center">Hi 👋, I'm zazaserty</h1>
-<h3 align="left">As a student, my passion for philology and languages has led me to dedicate myself to studying Latin, as well as mastering French, English, and Spanish. My enthusiasm for technology and customization has found a perfect outlet in the Linux operating system, particularly in Gentoo, which offers a high degree of control and satisfaction. Embracing the principles of the open-source movement, I actively support it in any way possible. Furthermore, I advocate for personal data protection and privacy by self-hosting my data and avoiding reliance on Google and other large corporations. As a committed learner, I remain resolute in my pursuit of achieving my goals.</h3>
+<h1 align="center">Hello, I'm zazaserty</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zazaserty&label=Profile%20views&color=0e75b6&style=flat" alt="zazaserty" /> </p>
+<h3 align="center">University student</h3>
 
-### Some quick facts about me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zazaserty&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-- 🔭 Currently working on getting my diploma and learning programming!.
+## About Me
 
-- 🌱 I’m currently learning to program using **C++**.
+I am a dedicated student with a profound interest in political sciences. My passion for technology is channeled through the Linux operating system, especially Gentoo, which I appreciate for its high degree of customization. I am a strong advocate for open-source principles and actively support the community. Committed to data privacy, I self-host my data to minimize reliance on major corporations.
 
-- 👨‍💻 I also have some experience with hacking, specifically wireless networks and phishing!
+## Quick Facts
 
-- 📝 I maintain a private nextcloud instance at [https://zaworld.zapto.org/](https://zaworld.zapto.org/).
-
-- 🤝 I am a big advocate for privacy, I used to host a TOR relay at home until the government of Spain decided to ban all tor ips from their services (which I sadly need).
-
-- 💬 Ask me about Linux and tinkering, specially *Gentoo*!
-
-- 📫 Reach me at **zazaserty@disroot.org**.
-
-- ⚡ I was a big apple fan when I was tech illiterate, now I can't bring myself to use those products knowing how harmful they can be. I only use my apple devices to tinker with jailbreak nowadays.
+- 🔭 **Current Focus:** Pursuing my diploma and enhancing my programming skills.
+- 🌱 **Learning:** Developing proficiency in **C++**.
+- 💻 **Experience:** Knowledgeable in wireless network security and phishing techniques.
+- 🛡 **Privacy Advocacy:** Operated a TOR relay to support internet privacy until regulatory changes in Spain affected its operation.
+- 📫 **Contact:** Reach me at [zazaserty@disroot.org](mailto:zazaserty@disroot.org).
+- 💬 **Interests:** Linux customization, particularly with *Gentoo*.
